@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Image /> renders correctly with Error 1`] = `
+<Image
+  height={262.5}
+  source={
+    {
+      "uri": "https://api.slingacademy.com/public/sample-photos/6.jpeg",
+    }
+  }
+  style={
+    [
+      {
+        "borderRadius": 5,
+        "height": 262.5,
+        "width": 293.48,
+      },
+    ]
+  }
+  width={293.48}
+/>
+`;

@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Container renders correctly with Error 1`] = `
+<RCTSafeAreaView
+  style={
+    [
+      {
+        "backgroundColor": "#e5e5e5",
+        "flexBasis": 0,
+        "flexGrow": 1,
+        "flexShrink": 1,
+      },
+    ]
+  }
+>
+  <Text
+    size={32}
+    style={
+      [
+        {
+          "color": "black",
+          "fontSize": 32,
+          "fontWeight": "normal",
+          "marginBottom": 10,
+          "marginLeft": 0,
+          "marginRight": 0,
+          "marginTop": 10,
+          "textalign": "'center'",
+        },
+      ]
+    }
+  >
+    Normal Text
+  </Text>
+  ,
+</RCTSafeAreaView>
+`;

@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<Text
+  size={32}
+  style={
+    [
+      {
+        "color": "red",
+        "fontSize": 32,
+        "fontWeight": "normal",
+        "marginBottom": 10,
+        "marginLeft": 0,
+        "marginRight": 0,
+        "marginTop": 10,
+        "textalign": "'center'",
+      },
+    ]
+  }
+  type="error"
+>
+  An error occurred...
+</Text>
+`;

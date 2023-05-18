@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GenericText renders correctly with Error 1`] = `
+<View
+  style={
+    [
+      {
+        "backgroundColor": "",
+        "height": "",
+        "width": "",
+      },
+      {
+        "backgroundColor": "red",
+        "height": 16,
+        "width": undefined,
+      },
+    ]
+  }
+/>
+`;

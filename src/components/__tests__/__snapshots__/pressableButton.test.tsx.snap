@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PressableButton renders correctly 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "backgroundColor": "darkslateblue",
+      "borderRadius": 10,
+      "marginVertical": 20,
+      "opacity": 1,
+      "paddingBottom": 12,
+      "paddingLeft": 12,
+      "paddingRight": 12,
+      "paddingTop": 12,
+    }
+  }
+  testID="PressableButton"
+>
+  <Text
+    style={
+      [
+        {
+          "fontSize": 16,
+          "textAlign": "center",
+        },
+      ]
+    }
+  >
+    Do something
+  </Text>
+</View>
+`;
