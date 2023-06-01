@@ -1,4 +1,4 @@
-# Yas
+# SONIQ
 
 ## Main technologies used
 
